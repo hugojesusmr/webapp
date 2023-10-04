@@ -1,0 +1,1099 @@
+también tenemos algunas dudas.
+
+
+Primeramente en fue en la sesión pasada les había despetado que estábamos haciendo pruebas ahí en en un voltor de sharepoint con en el apartado de listas y demás.
+
+
+0:56
+Sin embargo, al estar haciendo pruebas.
+
+
+1:01
+Bueno, ahí siguiendo, explorando el la la funcionalidad de Microsoft y todas las todo el ecosistema de Microsoft este.
+
+
+1:11
+Que está se está volviendo un poquito complicado hacer la la comparativa.
+
+
+1:18
+Voy a.
+
+
+1:19
+
+
+
+
+1:22
+Y se ve en pantalla.
+
+
+1:26
+Sí.
+
+
+1:29
+Bueno, tengo abierto.
+
+
+1:32
+Es el objetivo de bueno que tú le das el minuto.
+
+
+1:40
+Nada más que este, hay algunas columnas que.
+
+
+1:45
+Bueno, obviamente con con el archivo del hepcoun que que llega a ustedes de de RH varias de las columnas. Sí, sí coinciden, 
+pero algunas otras son básicamente las de las finales.
+
+
+2:00
+Estas no, no, no vienen, entonces primeramente queremos preguntarles.
+
+
+2:07
+Por ejemplo.
+
+
+2:11
+¿Ponemos esta, no estas dónde las actualizan ustedes?
+
+
+2:17
+Es manual, nosotros los vamos como actualizando la información justo como la dirección. Sí hubo como algún cambio de la de dirección del área,
+ la tipo de posición si está activo, si es si es vacante o si es externo. Eso sí, es como de forma manual.
+
+
+2:37
+Todas esas columnitas que muestran en rojo si nosotros lo hacemos como manual.
+
+
+2:44
+OK.
+
+
+2:46
+¿Y en este caso a ustedes les llega esta información también DRHOO cómo es la cómo es que la obtienen? Van a preguntarle.
+
+
+2:56
+¿Otra área, cómo sería?
+
+
+2:59
+No, o sea, por ejemplo, la del tipo de posición justo es es es si se encuentra el personal activo literal, nada más es ponerle activo y en dado caso cuando se sufre como una baja justo se cambia ahí en lugar de activos se cambia como vacante y se borra la información personal del de ahora. Sí, del usuario que estaba utilizando esa posición.
+
+
+3:24
+También tanto la categoría subcategoría de liderazgo y categoría de identidad. También esa se clasifica de forma manual. Pero o sea, esas, ese sí no cambia porque eso va conforme al puesto y en la entidad, conforme a la localidad donde se encuentra.
+
+
+3:47
+Sí.
+
+
+3:49
+
+
+
+
+3:52
+¿Cambio, pero hay algún obstáculo que me han dejado?
+
+
+3:56
+Ah, por ejemplo, esta esta de nuevo ingreso, no, sí, entiendo que es con qué es el el empleado que está existente. ¿Tiene un ingreso, cuánto, por ejemplo, cuánto tiempo pasa para que ya sea?
+
+
+4:11
+Regreso hacia existente, por ejemplo, mira normalmente en los de nuevo ingreso, justo es como al año que vamos, por ejemplo, Ahorita los que entran todo en el 2023 son nuevos ingresos.
+
+
+4:23
+Y los demás quedarían como existente y en dado caso que sea promoción, se trata justo de una persona que esté en el ABP, pero que cambió como a un puesto más arriba. ¿Entonces le pone como promoción?
+
+
+4:38
+Porque al final sigue activo, pero modifico el puesto.
+
+
+4:46
+Sí.
+
+
+4:48
+Esos estatus los puedes obtener a lo mejor de las columnas YYJ.
+
+
+4:53
+
+
+
+
+4:54
+Por ejemplo, si filtras por nuevo ingreso.
+
+
+4:59
+En en la columna K se filtras por nuevo ingreso.
+
+
+5:06
+En la M no.
+
+
+5:09
+Hay la Ah, sí, perdón de la mente.
+
+
+5:14
+Bueno, ahí deberían de hacer nuevo ingreso únicamente los del 2023.
+
+
+5:21
+Ya lo hacia atrás tendrían que ser existentes.
+
+
+5:26
+Bueno, filtra por los que dicen promoción.
+
+
+5:33
+La columna y te indica el el año en el que entró a la empresa o la fecha en la que entró a la empresa.
+
+
+5:41
+Y la columna J te indica la nueva posición. ¿Cuándo surgió ese cambio? Entonces identificamos que es una promoción porque estaba dentro de la empresa y cambió únicamente de puesto. La primer columna es la fecha en la cual ingresó la compañía y esta segunda es la que ingresó a ese puesto que está indicado.
+
+
+6:02
+Entonces es por eso que se indica como una promoción, no como un nuevo ingreso, no como alguien.
+
+
+6:07
+Que haya entrado por Por Primera Vez los que dicen no ingreso las 2 fechas son iguales.
+
+
+6:17
+OK, entiendo.
+
+
+6:19
+
+
+
+
+6:23
+Justamente estas.
+
+
+6:25
+
+
+
+
+6:31
+Justamente lo que estaba identificando, no que todas estas.
+
+
+6:37
+¿Estas son las que actualizan manual, no?
+
+
+6:40
+De acuerdo a lo que.
+
+
+6:43
+Lo que se ve de RHY son que de los demás archivos.
+
+
+6:50
+Por ejemplo, esto no dedica al médico.
+
+
+6:53
+Todas, todas estas columnas son manual, correcto.
+
+
+6:57
+Sí.
+
+
+7:02
+Vale, bueno, la degeneración adelantito creo de las primeras columnas, esa sí viene en el archivo de que nos comparte RH, sólo que ahí 
+tenemos que meter nuestros manual, la de los externos, porque esa no viene en su archivo. Entonces se la tengo que solicitar y me lo comparte por aparte.
+
+
+7:27
+Pero esa columnita de generación si viene en el otro.
+
+
+7:33
+Y la columna M yo creo que sí podríamos poner a lo mejor alguna condición de acuerdo a las fechas, como se comentó no existentes si es menor al al 20, al año en en curso.
+
+
+7:48
+Nuevo ingreso si las 2 fechas son iguales y pertenecen al mismo año.
+
+
+7:55
+Y promoción si la si la fecha D es más vieja que la e no.
+
+
+8:02
+A lo mejor podríamos hacer ese arreglo para que sea automático.
+
+
+8:09
+Sí, sí, yo creo que no, no, no hay problema. Todo lo que sea 2023 sea, no hubo ingreso.
+
+
+8:17
+Tendría que ser del año en curso, no alguna fórmula que te diga de.
+
+
+8:22
+Daño en coche.
+
+
+8:25
+Perfecto.
+
+
+8:27
+OK.
+
+
+8:29
+Bueno, entonces estable ya quedó aclarado.
+
+
+8:33
+
+
+
+
+8:35
+¿Aquí viste las las preguntas?
+
+
+8:40
+¿Bueno, igual ahorita que estás Miguel como tal, cuál es la?
+
+
+8:47
+¿Cuál es el el valor o la finalidad de este proyecto? ¿Más bien, cuál es el entregable?
+
+
+8:56
+¿Y hacia qué áreas se le presenta esta esta información? OO de qué forma no, Claro, perdón, a través de un dashboard o con.
+
+
+9:07
+Dando no con esto.
+
+
+9:11
+¿Cómo es este, cómo es, cómo se presenta?
+
+
+9:14
+Sí, mira, precisamente nos estamos poniendo de de acuerdo para ahorita para ver cómo lo vamos. AA presentar esta información se le estaría presentando AA Amirna YYA la dirección a Jessica no y en particular a todas las direcciones.
+
+
+9:31
+Para que tengan el dato de cuántas vacantes tienen su estatus de las vacantes y cuántas bajas han tenido.
+
+
+9:39
+Y más o menos la la presentación está quedando de esta manera.
+
+
+9:48
+Digo, todo es esta, este pulino tomo tanto la pantalla.
+
+
+9:53
+No.
+
+
+10:12
+Del camino.
+
+
+10:20
+Tal vez más o menos lo que estamos buscando representar.
+
+
+10:23
+
+
+
+
+10:29
+No es es saber la cantidad total de de colaboradores que tenemos.
+
+
+10:35
+Esto me pidieron invertirlo, la dirección queda en las filas.
+
+
+10:41
+Y la posición queda en las columnas.
+
+
+10:45
+Pero es básicamente cuánto personal tiene cada cada dirección o gerente.
+
+
+10:50
+En cuanto a activos externos, vacantes y vacantes becarios.
+
+
+10:56
+¿Global, cuántos somos únicamente de de activos?
+
+
+11:01
+¿Hombres o mujeres?
+
+
+11:04
+Y el tema de la generación, bajas y contrataciones.
+
+
+11:11
+Sí.
+
+
+11:15
+¿Por el momento es es este ajá? Por el momento es lo que tenemos.
+
+
+11:21
+OK.
+
+
+11:24
+¿Será que nos podrías compartir?
+
+
+11:27
+Esa pantalla para igual analizar este.
+
+
+11:31
+Las columnas y demás, porque yo creo que nos estaríamos enfocando bien bien.
+
+
+11:40
+¿Van a estar presentando este esta presentación, este rasgo?
+
+
+11:44
+Para a lo mejor ya no se meten tanto en en las tablas, no de de Excel, porque bueno, eso ya estaría bueno. ¿La finalidad de esto es que ya está automatizado, no? Y entonces teniendo ya el dashboard ustedes ya nada más van a portal y lo descargan y ya les va a aparecer.
+
+
+12:03
+Sería como la la la finalidad que estuvieran buscando, no sé si estoy yendo lo correcto.
+
+
+12:10
+Sí es es correcto, Luis, digo el menor tiempo que que utilicemos ahí lo que es el Excel y ya nada más vayamos sacamos un reporte, es lo que estamos buscando adicional todo el tema del Headcot pues nos sirve para el reporteo de los demás cursos.
+
+
+12:27
+Estamos viendo también para viáticos OO llenar algunos formatos como para automatizar el tema de los vistos buenos.
+
+
+12:37
+Digo este tema del getcound, sí, este sería de mucha ayuda para hacer todas esas actividades.
+
+
+12:45
+Claro.
+
+
+12:47
+Sí.
+
+
+12:53
+No sé qué es tan complicado, o sea, que en ese archivo de Headcount que aquí en ustedes.
+
+
+13:00
+Y puedan, no sé marcar ahí con 1.1 color diferente. ¿Cuáles son las columnas que que utilizan para ese dashboard o lo que tienen actualmente, que sería como que la las columnas más críticas?
+
+
+13:16
+Para nosotros hacer la tabla y bueno, de ahí sale dashboard para que se actualice esto.
+
+
+13:25
+O bueno, no sé si entonces del inicio Miguel se les se lo estaba comentando que la sesión pasada.
+
+
+13:33
+Estábamos probando como una herramienta de Microsoft que son las listas del Sharepoint en un grupo de shareholder.
+
+
+13:40
+Pero al tratar de de actualizar con los problemas que llegan.
+
+
+13:46
+RH está haciendo un poco.
+
+
+13:52
+En periodismo muy, muy, muy, muy amigable. ¿Entonces estamos todavía explorando que que este qué herramienta podemos usar?
+
+
+14:02
+Y bueno, igual de todas las te lo adelanto, estamos probando herramientas que se llama MAC.
+
+
+14:09
+Bueno, la ventaja de esto es que llevamos nosotros un acompañamiento de de esta empresa que se llama Aqua y bueno, nos solicitaron identificar las columnas y.
+
+
+14:24
+Y el y el dashboard no, que es lo que me apetece, que que me mostraste como para ir delimitando la información YY poder mostrarla ya ya en este portal.
+
+
+14:37
+
+
+
+
+14:40
+Entonces esta es la.
+
+
+14:43
+No sé si nos podrían, o sea.
+
+
+14:47
+Marcar con una un color las columnas críticas para poder formar esos tags.
+
+
+14:54
+Sí, sin problema, Luis la las marcamos.
+
+
+14:58
+De acuerdo.
+
+
+15:01
+
+
+
+
+15:02
+Vale buena la siguiente pregunta es si.
+
+
+15:08
+Estos archivos que bueno.
+
+
+15:10
+La la ONU os había mandado un correo.
+
+
+15:15
+En donde vienen 3 correos son ustedes el archivo de BHTMY, otros 2 que son de los 15.
+
+
+15:23
+Estos 3 correos.
+
+
+15:27
+¿Mantienen ese mismo formato y bueno, también si es poco, cómo es este?
+
+
+15:34
+¿O cuál es el tiempo que que van llegando esta semana por semana, supongo, o cómo sería ahí?
+
+
+15:41
+Adelante LAU.
+
+
+15:46
+Mira en el headcoun, sí, siempre es el mismo, es el mismo archivo y ese sí me lo mandan semana otra semana.
+
+
+15:53
+Y lo de los cursos de capacitación, ese sí cambia, porque por ejemplo, ACP nos los mandan los primeros días de cada mes.
+
+
+16:02
+Hay otros que nos los mandan cada 15 días.
+
+
+16:05
+El de Coursera, yo lo bajo y es también cada 15 días para reportar avance.
+
+
+16:11
+Pero el del Headcoun sí es cada semana y es el mismo archivo.
+
+
+16:18
+¿Eh, y aquí lo han montado, Eh? Entonces sectown es el mismo archivo que se llamaba tras semana, el de enlace, los primeros días de cada mes.
+
+
+16:28
+Normalmente sí son los primeros días, a veces se.
+
+
+16:32
+Se tardan un poquito más.
+
+
+16:36
+OK.
+
+
+16:38
+Y el reporte que lo descargas el.
+
+
+16:45
+Este es de coursera, ese es de otro de otra capacitación.
+
+
+16:53
+¿Ese de courcer a con qué? Este igual es semanalmente o no esa lo descargo cada 15 días.
+
+
+17:03
+
+
+
+
+17:12
+Algún otro, por ejemplo, no sé qué pasa en el DSP los.
+
+
+17:17
+El de TCP viene justo con el de ACP en el mismo archivo que nos lo mandan. Ahí vienen los 2.
+
+
+17:27
+OK.
+
+
+17:34
+De acuerdo.
+
+
+17:36
+Bueno, aquí yo creo que de los archivos que nos que nos enviaste.
+
+
+17:42
+También estaremos aplicando la misma dinámica de ver las columnas que que se utilizan para poder formar ese dashboard o los datos futuros que van a van a ser, por ejemplo, recursos.
+
+
+17:56
+Y los podrían esos archivos también marcar las columnas que utilizan.
+
+
+18:02
+Porque a lo mejor lo lo demás este pues sí es información que se puede almacenar como una tabla en una base de datos a lo mejor, pero si les interesa saber las columnas 3 cuatro columnas a lo mejor que son las críticas para poder utilizarlas en en la PPT.
+
+
+18:20
+También se deben apoyar con con esa información.
+
+
+18:23
+
+
+
+
+18:26
+Sí.
+
+
+18:31
+De acuerdo.
+
+
+18:33
+
+
+
+
+18:38
+Bien.
+
+
+18:42
+Ah, OK, voy a volver a presentar.
+
+
+18:49
+Óigame tú huevón, este no.
+
+
+19:00
+Voy a abrir el del cacao.
+
+
+19:08
+Aquí tengo una una duda, por ejemplo.
+
+
+19:12
+
+
+
+
+19:14
+Esta es la información más.
+
+
+19:18
+Que que tiene RH, pero por ejemplo se está acordando como un un log de de esto.
+
+
+19:27
+No sé, por ejemplo, esta persona.
+
+
+19:31
+Cambió de posición.
+
+
+19:35
+También, pues ya no, ahora vas coordinando, no, por ejemplo.
+
+
+19:39
+Esta persona tiene un registro que que fue especialista en algún momento OO solamente ya es la información que está actualmente, esa es mi duda.
+
+
+19:53
+Mira, pues nosotros vamos guardando como ahora sí, 2 archivos anteriores y ahí podríamos justo ver esa parte de que sí estuvo como con otro puesto y hoy en día se encuentra diferente porque lo que nos comparte literal es RH es así, entonces es como lo más actualizado, pero para en cuestión de saber si tuvieron otra otra posición sí tendríamos que ver nuestro histórico.
+
+
+20:24
+
+
+
+
+20:27
+Claro.
+
+
+20:29
+Falta es la la importancia, sí, tener de ustedes guardar su locking.
+
+
+20:35
+
+
+
+
+20:35
+Es que aquí ampliando un poquito el el comentario de la columna G sería como que la llave de ese archivo.
+
+
+20:43
+Ese número es único y siempre va a existir.
+
+
+20:48
+Y lo que cambia es el estatus si es vacante, si es actilo, pero ese número es único.
+
+
+20:57
+¿YY los datos que guarda de de este de la dirección y todo deberían de ser los mismos, únicamente lo que cambiaría es el usuario y las fechas de de ingreso, no?
+
+
+21:11
+Haz de cuenta que esa es la la la caja de la posición se mantiene ese número y quién cambia es el usuario.
+
+
+21:22
+OK, perfecto.
+
+
+21:33
+¿Vale, OK, aquí queda, queda muy Claro también eso no cambia, no? Supongo que es.
+
+
+21:40
+Del ID del empleado.
+
+
+21:43
+Y ese sí llega a cambiar si por ejemplo se tiene una baja.
+
+
+21:49
+Haz de cuenta que que el de la cortina G.
+
+
+21:54
+No sé el de nos vamos por el primero, no la P 1016014.
+
+
+22:00
+
+
+
+
+22:01
+Esta ya no va a aparecer aquí en internos, pero va a aparecer en la hoja de vacantes.
+
+
+22:08
+No, porque ya no va a ser un personal activo. Por ejemplo, este código. El primero, el P. 168 24.
+
+
+22:17
+Pasó a ser vacante, no, y es lo que te digo, este número se mantiene igual la posición.
+
+
+22:23
+Igual todos los campos que están ahí adelante de dirección, centro de costos que tendría que ser la bueno. La precisión es para.
+
+
+22:34
+¿Para la misma área, no? Y quién cambia sería en este caso es el personal.
+
+
+22:39
+¿Entonces la columna que comentabas que se puede llegar a cambiar si puede llegar a cambiar si es una vacante, si se sigue manteniendo como interno, pues no, ese número no, no cambia, no?
+
+
+22:55
+De acuerdo.
+
+
+22:57
+Sí, esta esta este código, hoy en día no se ha relacionado con este empleado, ya va, ya va a ser otro cuando cuando esa vacante se ocupe no y ya aparezca aquí como interno y una fecha reciente del 2023, si es nuevo ingreso las 2 columnas, la e la F coinciden, si es una este una promoción, la e es anterior a la F.
+
+
+23:22
+¿Y esos son los cambios que que habría, no?
+
+
+23:29
+Muy bien.
+
+
+23:30
+
+
+
+
+23:35
+Temas.
+
+
+23:37
+Les comenté ahí de la la frecuencia de los correos.
+
+
+23:43
+¿OA lo de las otras fuentes? ¿Supongo que es la la parte de Cochera, no hay alguna otra fuente?
+
+
+23:50
+Ustedes descargan aparte de los correos, aparte de Coursera.
+
+
+23:56
+
+
+
+
+24:02
+No, perdón, Mike, creo que nomás el único de la plataforma que descargamos es coursera. Ajá. Es coursera, pero todo lo demás nos lo mandan.
+
+
+24:12
+Como justo en Excel.
+
+
+24:14
+Sí es correcto, digo, podemos llegar a un acuerdo que.
+
+
+24:18
+Los encabezados sean a lo mejor los mismos, no para para cada uno de los archivos que nos comparte.
+
+
+24:27
+A ver si es posible.
+
+
+24:31
+Otra vez este no entendí bien bien esa frase.
+
+
+24:37
+Este de toda la información que nos comparten.
+
+
+24:40
+Pueden podríamos solicitarle al usuario que nos dé a lo mejor algunos encabezados que siempre sean los mismos.
+
+
+24:48
+Para que el archivo 3 venga con.
+
+
+24:52
+¿Pues con la misma presentación, no?
+
+
+24:57
+OK, perfecto.
+
+
+24:59
+Justamente bueno, ahorita creo que no está.
+
+
+25:03
+¿Frente y dónde está?
+
+
+25:05
+Pero para.
+
+
+25:08
+Él conoce a.
+
+
+25:12
+Para el cine.
+
+
+25:14
+Y bueno, hablamos con respecto AA esta a estas 3 hojas.
+
+
+25:22
+No, no, no, la verdad. Nos ponen que que quedó, pero parece que le solicitó.
+
+
+25:28
+Esta tabla.
+
+
+25:32
+¿Tenga el formato de tabla, bueno, a qué me refiero este?
+
+
+25:38
+Ya ven que aquí le aquí le podemos poner que le ponga un formato como tabla.
+
+
+25:44
+Se habilita ahí, de hecho, hasta le puedes poner nombre a la tabla tabla sí es correcto.
+
+
+25:51
+De hecho, esta no está declarada como una tabla.
+
+
+25:54
+Les pedimos que las 3, la que te da como una tabla y cualquier nombre a las 3 tablas no hay problema, pero que sí estén declaradas como tabla para que.
+
+
+26:05
+El programa de estamos tanto de Microsoft las labores, pero sí incluso puede ser el mismo nombre no que la hoja.
+
+
+26:14
+Exacto y tabla interna.
+
+
+26:19
+Sí, igual este.
+
+
+26:22
+Es igual si editamos ahí, bueno, sí, sí, sí. Es importante que sí tenga. Yo creo que los mismos campos siempre.
+
+
+26:31
+Pero bueno, está perfecto, no que tengan esa facilidad de de poderla poder solicitar cambios en el archivo que llegue ahí. Bueno, si se le está solicitando también a lo mejor en la en la parte de externos que meta las mismas columnas, si se puede de internos, porque en externos es mira, por ejemplo, llegas hasta la PY en internos son muchísimo más columnas.
+
+
+26:59
+OK.
+
+
+27:01
+Mira.
+
+
+27:04
+Exacto para que tengan homologado la información.
+
+
+27:09
+
+
+
+
+27:10
+YY por ejemplo, también el nombre del jefe inmediato viene inverso, no Empieza con el apellido y termina con el nombre.
+
+
+27:20
+Si te vas a las primeras columnas, está primero el el nombre y después sus apellidos, no de.
+
+
+27:30
+Bueno, aunque ahí vienen también este.
+
+
+27:34
+Separados no nombre, primer apellido, segundo apellido, lo que hacemos es concatenar esas 3 columnas y obtener su.
+
+
+27:43
+Su nombre completo en la base ya lo tenemos en un solo campo.
+
+
+27:51
+Entiendo.
+
+
+27:54
+Sí, a lo mejor si era más manejable que lo pudieran así o que empiece por el nombre, no puedo. Por alguna razón puedes buscar no ver todos los Pacheco, todos, todos los productos.
+
+
+28:07
+Sí, y lo que nos está solicitando también yo es digo, es colocar el el correo. ¿Ah, sí lo trae ahí su su correo como para si quiere enviar un comunicado nada más copiar los correos y enviarlo, no?
+
+
+28:23
+Ah, OK, perfecto.
+
+
+28:26
+Sí, sí, justo lo que les comentaba, no las columnas críticas.
+
+
+28:30
+Para.
+
+
+28:33
+Para sus posteriores de.
+
+
+28:36
+Dashboard, no o consulta.
+
+
+28:40
+No, bueno, no sé si a lo mejor no, no, no todo es indispensable.
+
+
+28:46
+Para crear dashboard.
+
+
+28:50
+Esto es para para delimitar no más que nada.
+
+
+28:56
+
+
+
+
+29:03
+¿OK también en esta parte, qué tiempo le lleva el proceso de de la actualización? Entiendo que lo hacen igual.
+
+
+29:13
+¿O cuánto tiempo les lleva a hacer este?
+
+
+29:17
+Sí.
+
+
+29:18
+
+
+
+
+29:22
+Es que puede variar, o sea porque hay veces que justo no, no hay como ningún cambio cuando haces como el cruce del buscar y queda igual. Entonces pues literal, nada más es el tiempo del del cruce y hasta ahí, pero hay veces que sí, cuando hay bajas o cuando hay nuevos ingresos.
+
+
+29:42
+Porque tienes que ir metiendo como tal cual este 1:1 los datos para no equivocarte y tener como el mismo el mismo formato en el archivo.
+
+
+29:56
+Puede ser, no sé, 30 minutos hasta.
+
+
+30:01
+¿O 3 días, no?
+
+
+30:04
+No, yo creo que 2 horas.
+
+
+30:06
+De 30 minutos a 2 horas. Sí, sí, más menos.
+
+
+30:11
+Sí.
+
+
+30:16
+Pues esta esta preguntándola yo proveedor por haber.
+
+
+30:22
+Bueno para para asignarle como un valor a.
+
+
+30:26
+La propuesta.
+
+
+30:29
+Sí, sí, porque te digo cuando son bajas hasta tengo que mandar justo a mi otro archivo de bajas la información, o sea, sí, dependiendo.
+
+
+30:38
+Si no hay como tal cual ningún ingreso, ninguna baja, no, pues no.
+
+
+30:45
+No se invierte casi nada.
+
+
+30:49
+OK.
+
+
+30:51
